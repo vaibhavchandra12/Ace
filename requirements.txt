@@ -1,0 +1,7 @@
+aiohttp
+aiofiles
+pyrogram
+python-dotenv
+pyromod
+TgCrypto
+requests
